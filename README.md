@@ -40,5 +40,3 @@ If you'd like to contribute to this project, your help is welcome. Please feel f
 This project is licensed under the terms of the MIT license.
 
 ```
-
-When you create your README.md file, make sure you include actual instructions tailored to your project's structure and requirements. If you have any scripts or additional steps needed to run your project, you should add those as well. If you're hosting the code on GitHub, consider also adding a section for `Installation` if your project requires more specific setup steps.
