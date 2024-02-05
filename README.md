@@ -38,5 +38,3 @@ If you'd like to contribute to this project, your help is welcome. Please feel f
 ## License
 
 This project is licensed under the terms of the MIT license.
-
-```
